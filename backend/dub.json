@@ -1,0 +1,10 @@
+{
+    "name": "backend",
+    "description": "A minimal D application.",
+    "copyright": "Copyright © 2014, Colden Cullen",
+    "authors": [ "Colden Cullen" ],
+    "dependencies": {
+        "vibe-d": "==0.7.21-beta.2"
+    },
+    "versions": [ "VibeDefaultMain" ]
+}
